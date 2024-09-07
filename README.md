@@ -1,5 +1,5 @@
 
-# SmartBins_RPi_Blynk
+# SmartBins_RPi_Blynk (only Driver code)
 
 ### Overview
 This repository showcases my **Smart Bins** project developed during my internship. The project integrates **Raspberry Pi**, **Blynk**, and **machine learning** to automate waste sorting and monitoring. Ultrasonic sensors monitor bin capacity, and servos automatically open the correct bin based on the type of waste detected. The Blynk app is used for real-time monitoring and control.
